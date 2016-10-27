@@ -8,6 +8,7 @@
 
 ###Подключение:
 require './decorator_methods.rb'
+
 include Decorators
 
 ###Пример использования:
